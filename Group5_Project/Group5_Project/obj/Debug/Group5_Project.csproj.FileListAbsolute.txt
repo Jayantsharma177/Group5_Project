@@ -1,0 +1,6 @@
+/Users/jayantsharma/Documents/Group5_Project/Group5_Project/bin/Debug/Group5_Project.exe
+/Users/jayantsharma/Documents/Group5_Project/Group5_Project/bin/Debug/Group5_Project.pdb
+/Users/jayantsharma/Documents/Group5_Project/Group5_Project/obj/Debug/Group5_Project.csproj.AssemblyReference.cache
+/Users/jayantsharma/Documents/Group5_Project/Group5_Project/obj/Debug/Group5_Project.csproj.CoreCompileInputs.cache
+/Users/jayantsharma/Documents/Group5_Project/Group5_Project/obj/Debug/Group5_Project.exe
+/Users/jayantsharma/Documents/Group5_Project/Group5_Project/obj/Debug/Group5_Project.pdb
